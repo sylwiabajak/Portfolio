@@ -13,6 +13,7 @@ Obecnie studiuję informatykę. Jestem na drugim roku i miałam okazję trochę 
 * Znajomość zagadnień ISTQB
 * Przypadki testowe 
 * Zgłaszanie błędów
+* Raporty z testów
 * Scenariusze testowe
 # Kursy 
 * Tester Manualny (zgodnie z metodologią ISTQB)
