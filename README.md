@@ -8,7 +8,7 @@ Obecnie studiuję informatykę. Jestem na drugim roku i miałam okazję trochę 
 * Jira
 * Postman
 * TestRail
-* Linux (znajomość lini komand)
+* Linux (znajomość lini komend)
 * Windows 
 # Umiejętności 
 * Podstawy programowania 
