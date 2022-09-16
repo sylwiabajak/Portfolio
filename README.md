@@ -17,3 +17,7 @@ Obecnie studiuję informatykę. Jestem na drugim roku i miałam okazję trochę 
 * Scenariusze testowe
 # Kursy 
 * Tester Manualny (zgodnie z metodologią ISTQB)
+# Obserwowane kanały na YouTube
+* [Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale/featured)
+* [Jak nauczyć sie programowania](https://www.youtube.com/c/Jaknauczy%C4%87si%C4%99programowania)
+* [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania/featured)
