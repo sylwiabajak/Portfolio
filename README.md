@@ -18,7 +18,8 @@ Obecnie studiuję informatykę. Jestem na drugim roku i miałam okazję trochę 
 * Raporty z testów
 * Scenariusze testowe
 # Kursy 
-* Tester Manualny (zgodnie z metodologią ISTQB)
+* "Tester Manualny (zgodnie z metodologią ISTQB)"- organizowany przez [Codebrainers ](https://codebrainers.pl/#top)
+* "Postman Beginner's Course - API Testing"- z kanału [freeCodeCamp.org](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
 # Obserwowane kanały na YouTube
 * [Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale/featured)
 * [Jak nauczyć sie programowania](https://www.youtube.com/c/Jaknauczy%C4%87si%C4%99programowania)
