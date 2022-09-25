@@ -24,3 +24,4 @@ Obecnie studiuję informatykę. Jestem na drugim roku i miałam okazję trochę 
 * [Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale/featured)
 * [Jak nauczyć sie programowania](https://www.youtube.com/c/Jaknauczy%C4%87si%C4%99programowania)
 * [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania/featured)
+* [freeCodeCamp.org](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
