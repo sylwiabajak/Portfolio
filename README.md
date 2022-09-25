@@ -3,7 +3,7 @@
 # O mnie 
 Obecnie studiuję informatykę. Jestem na drugim roku i miałam okazję trochę programować a także dowiedzieć się co nieco o systemach operacyjnych. Testowanie ciekawiło mnie od dawna, więc kurs testowania manualnego zrobiłam w te wakacje (2022). Chcę w kolejnych latach rozwijać się w testowaniu manualnym i QA. 
 
-Mam na imię Sylwia, mam 24 lata i interesuje mnie testowanie oprogramowania. Własnie zaczęłam 4 semestr studiów informatycznych oraz w wakacje ukończyłam kurs testowania manualnego. W wolnych chwilach staram się poszerzać moją wiedzę. Moim największym marzeniem jest zostać senior testerką :)
+Mam na imię Sylwia, mam 24 lata i interesuje mnie testowanie oprogramowania. Własnie zaczęłam 4 semestr studiów informatycznych oraz w wakacje ukończyłam kurs testowania manualnego. W wolnych chwilach staram się poszerzać moją wiedzę korzystając z zasobów internetu. Moim największym marzeniem jest zostać senior testerką :)
 
 
 # Narzędzia i oprogramowanie
